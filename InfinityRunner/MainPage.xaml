@@ -4,13 +4,21 @@
              x:Class="InfinityRunner.MainPage">
 
     <Grid>
-        <Image Source="fundo.png"/>
-
-        <Image Source="arvore.png"/>
-
-        <Image Source="asfalto.png"/>
-
+        <HorizontalStackLayout x:Name="layerFundo">
+        <Image Source="fundo.png"
+                Aspect="AspectFill"/>
+        </HorizontalStackLayout> 
+        <HorizontalStackLayout x:Name="layerAsfalto">
+        <Image Source="asfalto.png"
+                WidthRequest="400"
+                VerticalOptions="End"/>
+         <Image Source="asfalto.png"
+                WidthRequest="400"
+                VerticalOptions="End"/>
+        </HorizontalStackLayout>
+        
         <Image Source="carro.png"/>
     </Grid>
+
 
 </ContentPage>
