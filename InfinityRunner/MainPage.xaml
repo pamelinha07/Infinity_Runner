@@ -7,6 +7,10 @@
         <HorizontalStackLayout x:Name="layerFundo">
         <Image Source="fundo.png"
                 Aspect="AspectFill"/>
+        <Image Source="fundo.png"
+                Aspect="AspectFill"/>
+        <Image Source="fundo.png"
+                Aspect="AspectFill"/>
         </HorizontalStackLayout> 
         <HorizontalStackLayout x:Name="layerAsfalto">
         <Image Source="asfalto.png"
@@ -15,10 +19,11 @@
          <Image Source="asfalto.png"
                 WidthRequest="400"
                 VerticalOptions="End"/>
+        <Image Source="asfalto.png"
+               WidthRequest="400"
+               VerticalOptions="End"/>
         </HorizontalStackLayout>
         
-        <Image Source="carro.png"/>
+        <Image Source="carro1.png"/>
     </Grid>
-
-
 </ContentPage>
