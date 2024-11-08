@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj": {}
+    "C:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj": {
+    "C:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj",
         "projectName": "InfinityRunner",
-        "projectPath": "c:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\InfinityRunner.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Infinity_Runner\\InfinityRunner\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

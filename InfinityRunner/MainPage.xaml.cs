@@ -2,6 +2,7 @@
 
 public partial class MainPage : ContentPage
 {
+	Player player;
 	bool estaMorto=false;
 	bool estaPulando=false;
 	const int tempoEntreFrames=25;
@@ -14,6 +15,8 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
+		player = new Player(ImgCarro);
+		player.Run();
 	}
     protected override void OnSizeAllocated(double w, double h)
     {
@@ -72,6 +75,7 @@ public partial class MainPage : ContentPage
 		while(!estaMorto)
 		{
 			GerenciaCenarios();
+			Player.Desenha();
 			await Task.Delay(tempoEntreFrames);
 		}
 	}
