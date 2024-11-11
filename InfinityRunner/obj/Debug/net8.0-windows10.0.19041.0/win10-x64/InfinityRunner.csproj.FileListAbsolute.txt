@@ -450,9 +450,7 @@ c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
-c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fundo.scale-100.png
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\asfalto.scale-100.png
-c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundo.scale-100.png
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\asfalto.scale-100.png
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\InfinityRunner.sourcelink.json
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\carro5.scale-100.png
@@ -467,3 +465,9 @@ c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carro1.scale-100.png
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carro3.scale-100.png
 c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carro2.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fundo3.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fundo2.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fundo1.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundo3.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundo2.scale-100.png
+c:\Users\Aluno\Infinity_Runner\InfinityRunner\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fundo1.scale-100.png
