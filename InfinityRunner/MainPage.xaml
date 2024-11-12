@@ -6,46 +6,44 @@
 
     <Grid>
         <HorizontalStackLayout x:Name="layerFundo1">
-        <Image Source="fundo1.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo1.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo1.png"
-                Aspect="AspectFill"/>
+                <Image Source="fundo1.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo1.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo1.png"
+                        Aspect="AspectFill"/>
         </HorizontalStackLayout>
         <HorizontalStackLayout x:Name="layerFundo2">
-        <Image Source="fundo2.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo2.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo2.png"
-                Aspect="AspectFill"/>
+                <Image Source="fundo2.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo2.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo2.png"
+                        Aspect="AspectFill"/>
         </HorizontalStackLayout> 
         <HorizontalStackLayout x:Name="layerFundo3">
-        <Image Source="fundo3.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo3.png"
-                Aspect="AspectFill"/>
-        <Image Source="fundo3.png"
-                Aspect="AspectFill"/>
+                <Image Source="fundo3.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo3.png"
+                        Aspect="AspectFill"/>
+                <Image Source="fundo3.png"
+                        Aspect="AspectFill"/>
         </HorizontalStackLayout> 
         <HorizontalStackLayout x:Name="layerAsfalto">
-        <Image Source="asfalto.png"
-                WidthRequest="400"
-                VerticalOptions="End"/>
-         <Image Source="asfalto.png"
-                WidthRequest="400"
-                VerticalOptions="End"/>
-        <Image Source="asfalto.png"
-               WidthRequest="400"
-               VerticalOptions="End"/>
+                <Image Source="asfalto.png"
+                        WidthRequest="400"
+                        VerticalOptions="End"/>
+                <Image Source="asfalto.png"
+                        WidthRequest="400"
+                        VerticalOptions="End"/>
+                <Image Source="asfalto.png"
+                       WidthRequest="400"
+                       VerticalOptions="End"/>
         </HorizontalStackLayout>
         
-        <Image Source=".png"
-                x:Name="imgCarro"
-                WidthRequest="200"
-                HeightRequest="100"
-                BackgroundColor="Blue"
-                Aspect="AspectFit"/>
+        <Image Source="a.png"
+               x:Name="imgCarro"
+               HeightRequest="100"
+               BackgroundColor="BLUE"/>
     </Grid>
 </ContentPage>
